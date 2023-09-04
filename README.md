@@ -29,3 +29,7 @@ https://us1.ca.analytics.ibm.com/bi/?perspective=story&pathRef=.my_folders%2Fsto
 # economyreport:
 
 https://us1.ca.analytics.ibm.com/bi/?pathRef=.my_folders%2FEconomy%2Breport&action=run&format=HTML&prompt=false
+
+# demolink:
+
+https://drive.google.com/file/d/1Yhbove5GVruv9bdt9AVS-zfhFV1r8zL1/view?usp=drive_link
